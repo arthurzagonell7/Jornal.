@@ -1,4 +1,4 @@
-# Jornal.
+# Jornal. https://arthurzagonell7.github.io/Jornal./
 
 
 DOCUMENTAÇÃO
@@ -14,3 +14,5 @@ GUIA DO USUÁRIO: O site conta com a função de informar os usuários sobre not
 ESTRUTURA: O nosso site foi feito com as linguagens de programação CSS e HTML5
 
 DESIGN: utilizamos o CSS para fazer a estilização do nosso site; com uma palheta de cores com cinza, amarelo em alguns pequenos pontos, preto e branco. Procuramos fazer o site bem simples e intuitiva.
+
+https://arthurzagonell7.github.io/Jornal./
